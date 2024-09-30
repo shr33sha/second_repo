@@ -1,2 +1,6 @@
  this is my second file
+<<<<<<< HEAD
 creating issues of merge
+=======
+my issues
+>>>>>>> dev
